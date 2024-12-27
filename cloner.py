@@ -10,7 +10,7 @@ def clone_repo_with_branch(repo_url, branch_name):
     print(f"Repository cloned and switched to branch '{branch_name}'.")
 
 # Example usage
-repo_url = 'git@gitlab.rapidinnovation.tech:root/backend-nest-pro.git'  # SSH URL of the repository
+repo_url =  "SSH URL of the repository"
 branch_name = 'sidesh'  # The branch you want to clone
 
 # Clone the repository with the specific branch
